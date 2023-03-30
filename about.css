@@ -1,0 +1,9 @@
+/* Body Styles */
+body {
+    background-color: rgb(209, 204, 204);
+    background-size: cover;
+
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
